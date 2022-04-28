@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="ko">
+    <Esri>
+        <CreaDate>20210318</CreaDate>
+        <CreaTime>11090700</CreaTime>
+        <ArcGISFormat>1.0</ArcGISFormat>
+        <SyncOnce>TRUE</SyncOnce>
+        <DataProperties>
+            <lineage>
+                <Process ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20200401" Time="140858">DefineProjection Export_Output GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]
+                </Process>
+            </lineage>
+        </DataProperties>
+    </Esri>
+</metadata>
